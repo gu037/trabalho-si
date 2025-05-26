@@ -174,7 +174,8 @@ reset e basee
     border-bottom-color: #00796b;
   }
   
-  /* Footer */
+ footer
+
   footer {
     background-color: #004d40;
     color: #b2dfdb;
@@ -186,7 +187,7 @@ reset e basee
     box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
   }
   
-  /* Responsividade */
+  Responsividade
   @media (max-width: 768px) {
     nav ul {
       flex-direction: column;
